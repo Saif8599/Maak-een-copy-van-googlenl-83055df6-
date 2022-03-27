@@ -1,0 +1,42 @@
+body {
+background: darkgrey;
+}
+.container {
+width: 700px;
+background: white;
+margin: 0 auto ;
+margin-top: 200px;
+text-align: center;
+background-color: darkgrey;
+}
+.container2 {
+margin: 0 auto;
+text-align: center;
+font-size: 16px ;
+}
+h1 {
+    font-size: 100px;
+margin: 0 auto;
+text-align: center;
+color: white;
+background-color: darkgrey;
+}
+#searchbar {
+    width: 80%;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 100px;
+}
+
+.googlezoeken {
+    font-size: 14px;
+    color: black;
+    cursor: pointer;
+    padding: 14px;
+}
+.ikdoeeengok {
+    font-size: 14px;
+    color: black;
+    cursor: pointer;
+    padding: 14px;
+}
